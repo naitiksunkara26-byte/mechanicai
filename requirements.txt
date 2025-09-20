@@ -1,8 +1,2 @@
 streamlit
-opencv-python
-ultralytics
-torch
-torchaudio
-librosa
 requests
-python-multipart
